@@ -1,0 +1,9 @@
+{
+  "name": "CircuitCycle",
+  "description": "A gamified, diegetic smart e-waste ecosystem with AR scanning, neighborhood wars, and smart bin management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
